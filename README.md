@@ -1,6 +1,6 @@
 # Vue Calculator 🧮
 
-![Vue Calculator](/image.png)
+<img width="1680" alt="Screen Shot 2023-06-20 at 5 30 20 PM" src="https://github.com/RishabhSingh08/vue-calculator/assets/92887139/1fcaa34c-cf78-4de1-819d-e65964fa4f62">
 
 This is a simple calculator app built with Vue.js + Bootstrap. The project was created as a learning exercise to practice Vue.js concepts.
 
